@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Manoharpolugari-83
 - 👀 I’m interested in GenAI
 - 🌱 I’m currently learning python fullstack & GenAI
+- present working on AI AUTOMATION 
   
 
 <!---
